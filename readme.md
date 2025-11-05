@@ -195,9 +195,4 @@ We re‑compute H1/H2 after substituting **C\_norm** with **C\_ZZ** or **C\_XX**
 
 ---
 
-## Contact & Attribution
-
-- **Authors:** Quant‑Trika Project.
-- **Questions:** Please open an issue with the config, log excerpt, and the relevant CSV/PKL attached.
-- **Use:** Cite this repository if you use the metrics, tests, or artifacts in academic work.
-
+Author: Artem Brezgin, Spanda Foundation (C) 2025, artem@quant-trika.org 
